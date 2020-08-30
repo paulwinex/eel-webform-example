@@ -11,3 +11,5 @@ And run
 ```bash
 python3 main.py
 ```
+
+![screenshoot](img/eelwebform.jpg)
